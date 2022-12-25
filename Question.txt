@@ -1,1 +1,6 @@
 Câu hỏi phân tích dữ liệu
+1. Đánh giá tỉ lệ thí sinh đậu tốt nghiệp theo từng năm 
+2. Thống kê điểm theo từng khối
+3. Đánh giá chất lượng đề và thí sinh qua phổ điểm từng năm.
+4. Phổ điểm của từng tỉnh.
+5. Điểm ưu tiên có ích như thế nào đối với thí sinh đăng kí thi vào chuyên ngành công nghệ thông tin của trường ta.
